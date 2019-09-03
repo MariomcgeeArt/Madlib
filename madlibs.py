@@ -11,3 +11,9 @@ pob = input("enter part of the body (plural): ")
 pln = input("enter plural noun: ")
 ver3 = input("enter verb ending in -ing: ")
 n2 = input("enter a noun")
+
+
+
+print(imput accepted )
+
+print ("It was a " + adj1 + "cold November day. I woke up to the " + adj2 + "smell of " + typb1 + "roasting in the " + rih + "downstairs. I " + ver1 + "down the stairs to see if i could help " + ver2 + 'the dinner. My mom said,"See if ' + rn1 + 'needs a fresh' + n1 + '." So i carried the glasses tray full of' + liq + "into the " + ver2 + "room. When i got there, I couldnt believe my " + pob + "! There were" + pln + vr3 + "on the " + n2 + "! ")
